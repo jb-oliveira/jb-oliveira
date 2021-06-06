@@ -6,3 +6,5 @@ A Software Engineer specializing in Java technologies and Javascript. Profession
 ---
 🧰 Toolbox
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50 height="50 />
+
