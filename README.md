@@ -1,7 +1,7 @@
 ### Hi there, I am Joao Oliveira. 
 ---
 
-A Software Engineer specializing in Java, Javascript and Rust technologies. Professional experience with the technologies listed in the toolbox below.
+A Software Engineer specializing in Java and Javascript technologies. Professional experience with the technologies listed in the toolbox below.
 
 ---
 🧰 Toolbox
